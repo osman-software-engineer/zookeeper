@@ -7,7 +7,7 @@ Hey there! Welcome to my Zookeeper project. This is an educational project from 
 The main objective of this project is to provide students with a hands-on application of acquired Java programming Knowledge by building a simple, interactive & functional Console App in multiple stages from difficulty level easy to challenging.
 
 ### For a more in-depth explanation and details, check out the official project link:  
-[Simple Chatty Bot on Hyperskill](https://hyperskill.org/projects/229)
+[Zookeeper on Hyperskill](https://hyperskill.org/projects/229)
 
 ## Prerequisites
 - Computer Literacy.
